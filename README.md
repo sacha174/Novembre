@@ -17,6 +17,14 @@ installation des sites suivants:
 -Geogebra
 -phyton
 
+travail personne:
+
+installation d'un theme mac sur l'ordinateur ubuntu pour une meilleur qualité visuel a l'aide du Terminal avec l'aide de "gnome" 
+
+-changement complet de l'interface.
+-changement des lettres, souris.
+-changement des icons.
+
 
 
 

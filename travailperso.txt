@@ -1,0 +1,14 @@
+travail effection tout seul a côter :
+changement de l'apparence de unbuntu en mac pour un effet visuel plus beau,
+-installation de paquet sur internet
+-codage sur le terminal afin de les installer et appliquer 
+-changement complet de l'apparence ubuntu.
+
+-probleme rencontré:
+trouver la bonne version d'un paquet [RÉSOLU]
+
+petite erreur de manip sur le terminal.[RÉSOLU]
+
+rendu : 
+
+themes et interface ne change absolument pas l'os mais juste l'interface donc l'image et rend donc le pc plus joli et voir plus simple d'utilisation.
