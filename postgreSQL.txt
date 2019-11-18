@@ -1,0 +1,24 @@
+postgreSQL : romain, yoann, sacha
+
+qu'est ce que c'est postgreSQL?
+
+PostgreSQL est un système de gestion de base de données et objet (SGBDRO). C'est un outil libre disponible selon les termes d'une licence de type BSD (distribution de logiciel)
+
+Ce système est concurrent a d'autres systèmes de gestion de base de données, qu'ils soient libres (comme MariaDB et Firebird), ou propriétaires (comme Oracle, MySQL, Sybase, DB2, Informix et Microsoft SQL Server). Comme les projets libres Apache et Linux, PostgreSQL n'est pas contrôlé par une seule entreprise, mais est fondé sur une communauté mondiale de développeurs et d'entreprises.
+
+les avantage a avoir prostgreSQL par rapport a d'autres : 
+
+-supporte le syntaxe oracle de base
+-fiabilité et stabilité superieur a mysSQL.
+-le de datamining /data warehouse est plus performent
+-license  M I T
+- il est meilleur que les autre pour faire des requete et sous requete.
+-il peut supporter des gros volume de donnée
+-il fonctionne sur presque tout les os
+
+les inconvenient a l'avoir! : 
+
+-Son déploiemen, vitesse de lecture/ouverture
+-Sa stricte conformité à la norme,
+-Documentation extensible en anglais seulement
+
