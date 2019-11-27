@@ -6,7 +6,7 @@ I. LINUX UBUNTU    (aquis)
 	A. Installation
 	B. Utilisation
 
-II. GOOGLE      (aquis)
+II. GOOGLE/chrome      (aquis)
 	A. Navigateur chrome (installation)
 	B. Compte Gmail (création)
 
@@ -21,7 +21,7 @@ IV. GIT       (en cour d'aquisition)
 		2. Utilisation
 		3. Clés SSH
 
-V. OUTILS PYTHON
+V. OUTILS PYTHON ( en cour d'aquisition)
 	A. Python & Python 3 (installation)
 	B. Anaconda (installation et utilisation)
 		1. Pandas
@@ -29,7 +29,7 @@ V. OUTILS PYTHON
 		3. Spyder
 		4. Visual Studio Code
 
-VI. OUTILS SQL
+VI. OUTILS SQL (en cour d'aquisition)
 	A. MySQL Server
 		a. Installation
 		b. Utilisation
@@ -39,7 +39,7 @@ VI. OUTILS SQL
 	C. Mode (compte)
 	
 
-VII. RESSOURCES COMPLEMENTAIRES
+VII. RESSOURCES COMPLEMENTAIRES  (pas encore vu)
 	A. Trello (compte & utilisation)    
         B. Google colab (en cour)
 	C. Geogebra (non utiliser/en cour)
